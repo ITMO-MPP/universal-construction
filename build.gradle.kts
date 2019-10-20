@@ -44,3 +44,9 @@ sourceSets {
         }
     }
 }
+
+// This is needed for the current version of AtomicFu that does not support Java 11 bytecode
+java {
+    sourceCompatibility = JavaVersion.VERSION_1_8
+    targetCompatibility = JavaVersion.VERSION_1_8
+}
