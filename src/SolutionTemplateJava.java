@@ -1,3 +1,6 @@
+/**
+ * @author :TODO: LastName FirstName
+ */
 public class SolutionTemplateJava implements AtomicCounter {
     // объявите здесь нужные вам поля
 

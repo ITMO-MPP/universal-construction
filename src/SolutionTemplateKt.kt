@@ -1,3 +1,6 @@
+/**
+ * @author :TODO: LastName FirstName
+ */
 class SolutionTemplateKt : AtomicCounter {
     // объявите здесь нужные вам поля
 

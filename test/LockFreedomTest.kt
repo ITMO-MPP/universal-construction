@@ -4,8 +4,8 @@ import kotlin.test.*
 
 class LockFreedomTest {
     private val env = LockFreedomTestEnvironment("LockFreedomTest")
-    private val nThreads = 5
-    private val nSeconds = 5
+    private val nThreads = 3
+    private val nSeconds = 3
 
     @Test
     fun testLockFreedom() {
